@@ -1,0 +1,6 @@
+DoubleEdgeWeights: n=5
+DoubleEdgeWeights: n=10
+DoubleEdgeWeights: n=100
+DoubleEdgeWeights: n=50
+DoubleEdgeWeights: n=80
+DoubleEdgeWeights: n=200
