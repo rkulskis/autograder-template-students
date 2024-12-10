@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!PA*/
+!PA*/starter_code/
+!PA*/starter_code/**
+!WA*/
+!WA*/*
