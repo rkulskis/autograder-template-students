@@ -1,7 +1,7 @@
-assignments-programming/problems
-assignments-programming/*/*
-!assignments-programming/*/starter_code
-!assignments-programming/*/starter_code/**
+pa/problems
+pa/*/*
+!pa/*/starter_code
+!pa/*/starter_code/**
 autograder
 solution
 *.sol
