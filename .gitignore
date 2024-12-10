@@ -7,3 +7,6 @@ solution
 *.sol
 *.out														
 *.tex
+*~
+__pycache__
+*.zip
