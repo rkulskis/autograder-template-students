@@ -1,5 +1,5 @@
 ############################################################
-# Starter code for template
+# Starter code for template-python
 # Created on December 10, 2024
 ############################################################
 
