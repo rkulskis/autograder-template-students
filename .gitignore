@@ -1,29 +1,24 @@
 *
 !.gitignore
 
-!programming-assignments/
-!programming-assignments/PA*/
-!programming-assignments/PA*/starter_code/
-!programming-assignments/PA*/starter_code/**
+!pa/
+!pa/*/starter_code/
+!pa/*/starter_code/**
 
-!written-assignments/
-!written-assignments/WA*/
-!written-assignments/WA*/*.pdf
+!wa/
+!wa/WA*/
+!wa/WA*/*.pdf
 
-!exams/
-!exams/EXAM*/
-!exams/EXAM*/*.pdf
+!exam/
+!exam/*.pdf
 
-!lectures/
-!lectures/LEC*/
-!lectures/LEC*/*.pdf
+!lec/
+!lec/*.pdf
 
-!labs/
-!labs/LAB*/
-!labs/LAB*/*.pdf
-!labs/LAB*/*.py
+!lab/
+!lab/*.pdf
+!lab/*.py
 
-!quizzes/
-!quizzes/QUIZ*/
-!quizzes/QUIZ*/*.pdf
-!quizzes/QUIZ*/*.py
+!quiz/
+!quiz/*.pdf
+!quiz/*.py
